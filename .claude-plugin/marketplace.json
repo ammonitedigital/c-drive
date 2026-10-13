@@ -1,0 +1,14 @@
+{
+  "name": "c-drive",
+  "description": "A 90s hard disk that grinds away while Claude works",
+  "owner": {
+    "name": "Ammonite Digital",
+    "email": "hello@ammonite.digital"
+  },
+  "plugins": [
+    {
+      "name": "c-drive",
+      "source": "./"
+    }
+  ]
+}

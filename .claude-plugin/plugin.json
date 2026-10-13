@@ -1,0 +1,11 @@
+{
+  "name": "c-drive",
+  "version": "1.0.0",
+  "description": "Plays a 90s hard disk grinding away while Claude works, with a mute toggle and a defrag window",
+  "author": { "name": "Ammonite Digital", "email": "hello@ammonite.digital" },
+  "homepage": "https://github.com/ammonitedigital/c-drive",
+  "repository": "https://github.com/ammonitedigital/c-drive",
+  "license": "MIT",
+  "keywords": ["sound", "retro", "fun"],
+  "types": "./types/index.d.ts"
+}
